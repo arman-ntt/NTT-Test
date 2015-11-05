@@ -1,3 +1,0 @@
-# NTT-Test
-Test
-Hello
